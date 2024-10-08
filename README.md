@@ -6,10 +6,10 @@
 [0] 방송 클라우드 시스템 - 정의            : https://docs.google.com/document/d/1ECCEvWwyIdN3DDFQLW5OOIBK0A-zxNehAVpnl1mlsrU/edit?pli=1
 
 [1] 방송 클라우드 시스템 - 송출 시스템       : https://docs.google.com/document/d/1KWulKZbMAte163FrdQYobegHLvgK7braGtnRmhlArCc/edit
-@@ -12,6 +11,11 @@
+
+[2] 방송 클라우드 시스템 - 코어 네트워크      : https://docs.google.com/document/d/1xPQRvOccA9DqNov3oLzigMV6_RD35CDr7Sd_I2xsqBk/edit
 
 [3] 방송 클라우드 시스템 - 중앙 관리 시스템    : https://docs.google.com/document/d/11LcO9edPCqmEXPqhw51wGwjf9gokyfQ_mFypRDcgHrs/edit
-
 
 [4] 표준 규격서에 관한 목차 검토 : https://docs.google.com/document/d/1pZvPN3j4w0VBpdnAHAbQQelLeHG2RSwmwZgzUY_Tiwc/edit
 
