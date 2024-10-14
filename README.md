@@ -1,6 +1,6 @@
 # spec
 
-미방포럼규격서 (2024)
+미방포럼규격서 (2024) - TTA 버전
 
 
 [0] 방송 클라우드 시스템 - 정의            : https://docs.google.com/document/d/1ECCEvWwyIdN3DDFQLW5OOIBK0A-zxNehAVpnl1mlsrU/edit?pli=1
