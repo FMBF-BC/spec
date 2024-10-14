@@ -4,16 +4,16 @@
 
 
 [0] 방송 클라우드 시스템 - 정의:
-  [https://docs.google.com/document/d/1ECCEvWwyIdN3DDFQLW5OOIBK0A-zxNehAVpnl1mlsrU/edit?pli=1](https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Eb3KMAjtdEdFsl1TPPBgAPsBKjdQUha31AEOBOsDqMVGog?e=zxGzGg)
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Eb3KMAjtdEdFsl1TPPBgAPsBKjdQUha31AEOBOsDqMVGog?e=zxGzGg 
 
 [1] 방송 클라우드 시스템 - 송출 시스템:
-  [https://docs.google.com/document/d/1KWulKZbMAte163FrdQYobegHLvgK7braGtnRmhlArCc/edit](https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Ef_XvN0OXspOmgn7EmPnEPYBLVmCOr583U_5tliN50utmQ?e=4GlH5I)
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Ef_XvN0OXspOmgn7EmPnEPYBLVmCOr583U_5tliN50utmQ?e=4GlH5I
 
 [2] 방송 클라우드 시스템 - 코어 네트워크: 
-  [https://docs.google.com/document/d/1xPQRvOccA9DqNov3oLzigMV6_RD35CDr7Sd_I2xsqBk/edit](https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EeAsKr6C-EBFvL-26T7Oju0BUjSoAYLkzr3wGo9)
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EeAsKr6C-EBFvL-26T7Oju0BUjSoAYLkzr3wGo9
 
 [3] 방송 클라우드 시스템 - 중앙 관리 시스템:
-https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EXJR20pJGXVPkUlRhnak73EBTy5xz9K3jmdk5tRcGgl6pA?e=XfBBAH 
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EXJR20pJGXVPkUlRhnak73EBTy5xz9K3jmdk5tRcGgl6pA?e=XfBBAH
 
 [4] 표준 규격서에 관한 목차 검토:
   [https://docs.google.com/document/d/1pZvPN3j4w0VBpdnAHAbQQelLeHG2RSwmwZgzUY_Tiwc/edit](https://github.com/FMBF-BC/spec/issues/2)
