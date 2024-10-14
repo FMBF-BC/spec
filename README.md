@@ -13,7 +13,7 @@
   [https://docs.google.com/document/d/1xPQRvOccA9DqNov3oLzigMV6_RD35CDr7Sd_I2xsqBk/edit](https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EeAsKr6C-EBFvL-26T7Oju0BUjSoAYLkzr3wGo9)
 
 [3] 방송 클라우드 시스템 - 중앙 관리 시스템:
-  [https://docs.google.com/document/d/11LcO9edPCqmEXPqhw51wGwjf9gokyfQ_mFypRDcgHrs/edit](https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EXJR20pJGXVPkUlRhnak73EBTy5xz9K3jmdk5tRcGgl6pA?e=XfBBAH)
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EXJR20pJGXVPkUlRhnak73EBTy5xz9K3jmdk5tRcGgl6pA?e=XfBBAH 
 
 [4] 표준 규격서에 관한 목차 검토:
   [https://docs.google.com/document/d/1pZvPN3j4w0VBpdnAHAbQQelLeHG2RSwmwZgzUY_Tiwc/edit](https://github.com/FMBF-BC/spec/issues/2)
