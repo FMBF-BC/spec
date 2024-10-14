@@ -10,13 +10,13 @@ https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Eb3KMAjtdEdF
 https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/Ef_XvN0OXspOmgn7EmPnEPYBLVmCOr583U_5tliN50utmQ?e=4GlH5I
 
 [2] 방송 클라우드 시스템 - 코어 네트워크: 
-https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EeAsKr6C-EBFvL-26T7Oju0BUjSoAYLkzr3wGo9
+https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EeAsKr6C-EBFvL-26T7Oju0B7jLuhSf-3ovb2HeydfinhA?e=aLLwS6
 
 [3] 방송 클라우드 시스템 - 중앙 관리 시스템:
 https://casteraio-my.sharepoint.com/:w:/g/personal/epark_castera_io/EXJR20pJGXVPkUlRhnak73EBTy5xz9K3jmdk5tRcGgl6pA?e=XfBBAH
 
 [4] 표준 규격서에 관한 목차 검토:
-  [https://docs.google.com/document/d/1pZvPN3j4w0VBpdnAHAbQQelLeHG2RSwmwZgzUY_Tiwc/edit](https://github.com/FMBF-BC/spec/issues/2)
+(https://github.com/FMBF-BC/spec/issues/2)
 
 --------
 
