@@ -1,6 +1,6 @@
 # spec
 
-미방포럼규격서 (2024) - TTA 버전
+미방포럼규격서 (2024) - TTA 버전 (추후 Google Doc 링크, 실제 작업 중인 SharePoint 링크로 교체 필요)
 
 
 [0] 방송 클라우드 시스템 - 정의            : https://docs.google.com/document/d/1ECCEvWwyIdN3DDFQLW5OOIBK0A-zxNehAVpnl1mlsrU/edit?pli=1
